@@ -1,0 +1,175 @@
+
+{
+    "personal": {
+        "name": "Priya Sharma",
+        "role": "BCA Student & Aspiring Web Developer",
+        "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600",
+        "introduction": "Hello! I am a passionate BCA first-year student who loves learning new technologies and creating beautiful websites. I enjoy solving problems and exploring the world of programming.",
+        "careerGoal": "To become a skilled Full Stack Developer and build innovative web applications.",
+        "email": "priya.sharma@example.com",
+        "phone": "+91 9876543210",
+        "resume": "resume.pdf"
+    },
+
+    "about": {
+        "description": "I am Priya Sharma, a Bachelor of Computer Applications (BCA) first-year student. I am interested in web development, programming and software technologies. I have started learning HTML, CSS, JavaScript, Bootstrap, C and C++. My goal is to improve my technical knowledge, gain practical experience and become a professional software developer."
+    },
+
+    "skills": [
+        {
+            "name": "HTML5",
+            "icon": "bi bi-filetype-html",
+            "description": "Building structured web pages.",
+            "level": 90
+        },
+        {
+            "name": "CSS3",
+            "icon": "bi bi-filetype-css",
+            "description": "Styling attractive websites.",
+            "level": 85
+        },
+        {
+            "name": "JavaScript",
+            "icon": "bi bi-filetype-js",
+            "description": "Adding interactive functionality.",
+            "level": 65
+        },
+        {
+            "name": "Bootstrap 5",
+            "icon": "bi bi-bootstrap",
+            "description": "Creating responsive websites.",
+            "level": 75
+        },
+        {
+            "name": "C Programming",
+            "icon": "bi bi-code-square",
+            "description": "Learning programming fundamentals.",
+            "level": 70
+        },
+        {
+            "name": "C++",
+            "icon": "bi bi-braces",
+            "description": "Understanding object-oriented programming.",
+            "level": 60
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "Personal Portfolio Website",
+            "image": "https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?w=800",
+            "description": "A personal portfolio website to showcase my skills, education, projects and achievements.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Online Shopping Website",
+            "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
+            "description": "A responsive shopping website with product cards, navigation and a basic shopping cart.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Student Registration Form",
+            "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800",
+            "description": "A student registration form with input fields and basic JavaScript form validation.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        },
+        {
+            "name": "Calculator Application",
+            "image": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=800",
+            "description": "A simple calculator application that performs basic mathematical operations.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "link": "https://github.com/"
+        }
+    ],
+
+    "education": [
+        {
+            "course": "Bachelor of Computer Applications (BCA)",
+            "college": "ABC Degree College",
+            "duration": "2026 - 2029",
+            "semester": "1st Semester",
+            "details": "Currently pursuing BCA. Learning computer fundamentals, programming and web development."
+        },
+        {
+            "course": "Higher Secondary Education (12th)",
+            "college": "XYZ Pre-University College",
+            "duration": "2024 - 2026",
+            "semester": "Completed",
+            "details": "Completed higher secondary education."
+        },
+        {
+            "course": "Secondary School Education (10th)",
+            "college": "XYZ High School",
+            "duration": "2024",
+            "semester": "Completed",
+            "details": "Completed secondary school education."
+        }
+    ],
+
+    "certifications": [
+        {
+            "name": "HTML and CSS Fundamentals",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Introduction to JavaScript",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "C Programming Basics",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        },
+        {
+            "name": "Introduction to Computer Science",
+            "issuer": "Online Learning Platform",
+            "year": "2026"
+        }
+    ],
+
+    "socialLinks": [
+        {
+            "name": "GitHub",
+            "icon": "bi bi-github",
+            "url": "https://github.com/"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/"
+        },
+        {
+            "name": "Instagram",
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/"
+        },
+        {
+            "name": "Facebook",
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/"
+        }
+    ]
+}
